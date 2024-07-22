@@ -1,0 +1,24 @@
+{
+  "name": "node.js_dynamic_file_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetanchaudhari07/Node.js_Dynamic_File_Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetanchaudhari07/Node.js_Dynamic_File_Server/issues"
+  },
+  "homepage": "https://github.com/chetanchaudhari07/Node.js_Dynamic_File_Server#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
